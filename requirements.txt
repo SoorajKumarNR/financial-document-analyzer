@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+crewai
+python-dotenv
+pdfplumber
+sqlalchemy
+python-multipart
